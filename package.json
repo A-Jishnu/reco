@@ -1,0 +1,14 @@
+{
+  "name": "music-recommendation-facial-expressions",
+  "version": "1.0.0",
+  "description": "Music recommendation system using facial expression recognition",
+  "main": "index.js",
+  "scripts": {
+    "start": "python Music-Recommendation-Using-Facial-Expressions-contribution/Music-Recommendation-Using-Facial-Expressions-contribution/code/ui_interfaces/cli_main.py",
+    "streamlit": "streamlit run Music-Recommendation-Using-Facial-Expressions-contribution/Music-Recommendation-Using-Facial-Expressions-contribution/code/ui_interfaces/app_local_streamlit.py",
+    "gui": "python Music-Recommendation-Using-Facial-Expressions-contribution/Music-Recommendation-Using-Facial-Expressions-contribution/code/ui_interfaces/app_PySimpleGUI.py"
+  },
+  "keywords": ["facial-recognition", "emotion-detection", "music-recommendation", "computer-vision"],
+  "author": "SGCODEX",
+  "license": "MIT"
+}
